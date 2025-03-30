@@ -131,7 +131,7 @@ A: Double-check your Client ID and Secret, and ensure your Redirect URI is set t
 
 Special thanks to:
 
-1. kxllswxtchXD (https://github.com/kxllswxtchXD)
+1. Stalking Z$ (https://github.com/StalkingZS)
    - For initial project inspiration and concept
    - Valuable contributions to the shuffling algorithm
 
