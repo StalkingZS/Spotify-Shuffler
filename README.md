@@ -127,34 +127,16 @@ A: Yes, if you have edit permissions for the playlist.
 Q: What if I get an authentication error?
 A: Double-check your Client ID and Secret, and ensure your Redirect URI is set to http://127.0.0.1:8080.
 
-## 🙏 Credits
+## 🤝 Contributing
 
-Special thanks to:
-
-1. Stalking Z$ (https://github.com/StalkingZS)
-   - For initial project inspiration and concept
-   - Valuable contributions to the shuffling algorithm
-
-2. DeepSeek | 深度求索 (https://www.deepseek.com/)
-   - AI assistance in code optimization
-   - Documentation and README improvements
-
-3. Spotipy (https://github.com/plamere/spotipy)
-   - Python library for Spotify Web API
-
-4. Colorama (https://github.com/tartley/colorama)
-   - Cross-platform colored terminal text
-
-5. Spotify Developer Team
-   - For maintaining the excellent Spotify Web API
-   - Their comprehensive API documentation
-
-6. Python Software Foundation
-   - For creating such a versatile programming language
-   - Maintaining the core libraries we depend on
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/awesome-feature`)
+3. Commit your changes (`git commit -am 'Add awesome feature'`)
+4. Push to the branch (`git push origin feature/awesome-feature`)
+5. Open a Pull Request
 
 ## 📜 License
 
 MIT License - Free for personal and commercial use
 
-💡 Tip: For best results, shuffle your playlists occasionally to rediscover forgotten gems in your music collection!
+💡 Pro Tip: For best results, use this with your favorite streaming tools to share your activities with viewers!
